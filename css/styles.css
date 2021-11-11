@@ -1,0 +1,25 @@
+h1 {
+  color: brown;
+  font-size: 50px;
+}
+.Pingiving {
+  background-color: crimson;
+}
+.Pingiving:hover {
+  background-color: black;
+}
+.Wolf {
+  background-color: black;
+}
+.porogrof:hover {
+  color: chartreuse;
+  font-size: 30px;
+}
+.porogrog:hover {
+  color: cyan;
+  font-size: 40px;
+}
+#p1:hover {
+  columns: red;
+  font: size 20px;
+}
